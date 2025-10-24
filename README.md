@@ -42,16 +42,6 @@ Hi, I'm Ankan Mahanta, an alumni of Depeartment of Forestry at PRMS Mahavidyalay
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankanmahanta890-rgb&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=ankanmahanta890-rgb&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ankanmahanta890-rgb&theme=aura&hide_border=false)<br/>
-
----
-
-## 🐍 My Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://snk.svg.infra.repl.co/github/ankanmahanta890-rgb?theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://snk.svg.infra.repl.co/github/ankanmahanta890-rgb?theme=light" />
-  <img alt="github-snake" src="https://snk.svg.infra.repl.co/github/ankanmahanta890-rgb" />
-</picture>
-
 ---
 
 ## 📈 Activity Graph
