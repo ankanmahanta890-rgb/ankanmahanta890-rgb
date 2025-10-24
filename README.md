@@ -57,9 +57,5 @@ Hi, I'm Ankan Mahanta, an alumni of Depeartment of Forestry at PRMS Mahavidyalay
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-
-<img src="https://komarev.com/ghpvc/?username=ankanmahanta890-rgb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-[![](https://visitcount.itsvg.in/api?id=ankanmahanta890-rgb&icon=0&color=7)](https://visitcount.itsvg.in)
 
 </div>
